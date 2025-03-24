@@ -1,6 +1,4 @@
 ## Hi there 👋
-- 🌱 I’m currently learning more about coding
-- 😄 Pronouns: she/her
 
 
 <!--
